@@ -31,3 +31,7 @@ Here is an example of the variables and initial values for the propertyset:
 - re0_ipv4inet:  192.168.0.51/24
 - re1_ipv4inet: 192.168.0.52/24
 - re0_ipv4inet_master: 192.168.0.50/24
+  
+---
+  
+This pack is released with limited testing.
